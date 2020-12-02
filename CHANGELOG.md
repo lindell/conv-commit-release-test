@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.2](https://www.github.com/lindell/conv-commit-release-test/compare/v1.0.1...v1.0.2) (2020-11-22)
+
+
+### Bug Fixes
+
+* added registry ([6a5da18](https://www.github.com/lindell/conv-commit-release-test/commit/6a5da18c940ddf2cd12f587710760031856a8ad0))
+
 ### [1.0.1](https://www.github.com/lindell/conv-commit-release-test/compare/v1.0.0...v1.0.1) (2020-11-22)
 
 
