@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.3](https://www.github.com/lindell/conv-commit-release-test/compare/v1.0.2...v1.0.3) (2020-12-02)
+
+
+### Bug Fixes
+
+* test ([2e1679c](https://www.github.com/lindell/conv-commit-release-test/commit/2e1679c59575ffd965d9329f6438035319ed7b3c))
+
 ### [1.0.2](https://www.github.com/lindell/conv-commit-release-test/compare/v1.0.1...v1.0.2) (2020-11-22)
 
 
